@@ -21,8 +21,9 @@
 
 ## Attraction Photos
 + Certain attractions will take a photo of your ride vehicle with you and other guests inside. When the photo moment is triggered you and anyone else in the cart at the time will recieve a code in chat (And a DM if linked via Discord*)
++ You do have the option in your settings under the Magic Band to DISABLE photos. (I.e you will not be added to any/all when disabled) [This is set to ENABLED by default]
 
-+*Please make sure you have DM's enabled for this
+*Please make sure you have DM's enabled for this
 
 ## Rank Updates
 
