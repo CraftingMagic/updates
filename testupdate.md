@@ -19,6 +19,10 @@
     * Skyway
     * Natures Wonderland
 
+## Attraction Photos
++ Certain attractions will take a photo of your ride vehicle with you and other guests inside. When the photo moment is triggered you and anyone else in the cart at the time will recieve a code in chat (And a DM if linked via Discord*)
++*Please make sure you have DM's enabled for this
+
 ## Rank Updates
 
 `Ranks have been renamed and a new one has been added as well as how they work in the network`
