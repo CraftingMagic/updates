@@ -7,7 +7,6 @@
 + A BRAND NEW WORLD!
 + Complete REWRITE of the Core System
 + Certain rides now take your photo!<sup>(More info in MemoryMaker section)</sup>
-+ Tom Sawyer Island is now open!
 + Resource pack has been completely redone from the ground up! This was done for future projects in store to make integration much easier and simpler, as well as fix many issues that were not known of until recently. (Please see Item Integration below)
 + Magic Bands have been redone since updating. To correct no-longer existent attractions, places, items, collectibles, etc
 + Ride rewarding system has been reworked to make sure all guests enjoying attraction get a reward
